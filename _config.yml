@@ -3,7 +3,7 @@ title: Cisco Secure Email Documentation+
 description: The home to Cisco Secure Email documentation and more for administrators, customers, and security seekers.
 
 baseurl: "/docs" # the subpath of your site, e.g. /blog
-url: "https://cisco-email-security.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://cisco-email-security.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 
 # Welcome to Jekyll!
