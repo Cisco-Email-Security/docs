@@ -52,6 +52,10 @@ heading_anchors: true
 # aux_links:
 #   "Cisco Support":
 #     - "//www.cisco.com/c/en/us/support/index.html"
+aux_links:
+"Cisco"
+<div class="trigger">
+<a class="page-link" href="https://github.com">Github</a>
 
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: true
