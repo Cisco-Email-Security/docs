@@ -1,10 +1,10 @@
 ---
-title: "(May 31, 2022) AsyncOS 14.2 General Deployment (GD)"
-slug: "asyncos-142-general-deployment-gd"
-hidden: false
-createdAt: "2022-05-31T18:02:00.763Z"
-updatedAt: "2022-07-14T17:36:25.919Z"
+layout: default  
+title: AsyncOS 14.2 General Deployment (GD)  
+parent: Announcements  
+nav_order: 1  
 ---
+
 ### What
 
 AsyncOS 14.2 ([AsyncOS 14.2.0-620](https://www.cisco.com/c/dam/en/us/td/docs/security/esa/esa14-2/release_notes/Secure_Email_14-2_Release_Notes.pdf)) has been released as General Deployment (GD) as of 2022, May 26.  This includes both Cisco Secure Email Gateway and Cisco Secure Email and Web Manager ([AsyncOS 14.2.0-203](https://www.cisco.com/c/dam/en/us/td/docs/security/security_management/sma/sma14-2/release_notes/SMA_14_2_0_Release_Notes.pdf)).
