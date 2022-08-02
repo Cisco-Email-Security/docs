@@ -6,6 +6,4 @@
 
 ## Docs 
 ## Support 
-## Community 
-
-<br><center>© 2022 Cisco Systems, Inc. Cisco, Cisco Systems and Cisco Systems logo are registered trademarks of Cisco Systems, Inc. and/or its affiliates in the U.S and certain other countries.</center><br>
+## Community  
