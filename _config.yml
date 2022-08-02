@@ -51,9 +51,6 @@ heading_anchors: true
 # Aux links for the upper right navigation
 # aux_links:
 
-aux_links:
-[External Title](https://www.cisco.com/c/en/us/support/index.html){:target="_blank"}
-
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: true
 
