@@ -3,7 +3,7 @@ title: Cisco Secure Email Documentation+
 description: The home to Cisco Secure Email documentation and more for administrators, customers, and security seekers.
 
 baseurl: "/docs" # the subpath of your site, e.g. /blog
-url: "https://cisco-email-security.github.io/docs" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://cisco-email-security.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
 
 # Welcome to Jekyll!
@@ -72,7 +72,7 @@ heading_anchors: true
 #     - "//github.com/just-the-docs/just-the-docs"
 
 # Makes Aux links open in a new tab. Default is false
-aux_links_new_tab: false
+aux_links_new_tab: true
 
 # Sort order for navigation links
 # nav_sort: case_insensitive # default, equivalent to nil
@@ -94,20 +94,20 @@ last_edit_time_format: "%b %e %Y at %I:%M %p" # uses ruby's time format: https:/
 
 
 # Footer "Edit this page on GitHub" link text
-gh_edit_link: false # show or hide edit this page link
-gh_edit_link_text: "Edit this page on GitHub"
-gh_edit_repository: "https://github.com/just-the-docs/just-the-docs" # the github URL for your repo
-gh_edit_branch: "main" # the branch that your docs is served from
+# gh_edit_link: false # show or hide edit this page link
+# gh_edit_link_text: "Edit this page on GitHub"
+# gh_edit_repository: "https://github.com/just-the-docs/just-the-docs" # the github URL for your repo
+# gh_edit_branch: "main" # the branch that your docs is served from
 # gh_edit_source: docs # the source that your files originate from
-gh_edit_view_mode: "tree" # "tree" or "edit" if you want the user to jump into the editor immediately
+# gh_edit_view_mode: "tree" # "tree" or "edit" if you want the user to jump into the editor immediately
 
 # Color scheme currently only supports "dark", "light"/nil (default), or a custom scheme that you define
 color_scheme: dark
 
 # Google Analytics Tracking (optional)
 # e.g, UA-1234567-89
-ga_tracking: UA-2709176-10
-ga_tracking_anonymize_ip: true # Use GDPR compliant Google Analytics settings (true/nil by default)
+# ga_tracking: UA-2709176-10
+# ga_tracking_anonymize_ip: true # Use GDPR compliant Google Analytics settings (true/nil by default)
 
 plugins:
   - jekyll-seo-tag
