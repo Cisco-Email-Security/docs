@@ -15,5 +15,5 @@ Welcome to the Cisco Secure Email Documentation hub.
 
 ## Docs 
 ## Support
-[Cisco Support] (https://www.cisco.com/c/en/us/support/index.html){target="_blank"}
+[Cisco Support](https://www.cisco.com/c/en/us/support/index.html){target="_blank"}
 ## Community  
