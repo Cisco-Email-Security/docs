@@ -49,9 +49,9 @@ search:
 heading_anchors: true
 
 # Aux links for the upper right navigation
-# aux_links:
+ aux_links:
    "Cisco Support":
-     - "www.cisco.com/c/en/us/support/index.html"
+     - "https://www.cisco.com/c/en/us/support/index.html"
 
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: true
