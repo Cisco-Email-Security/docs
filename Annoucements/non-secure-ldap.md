@@ -1,10 +1,10 @@
 ---
-title: "Cisco Secure Email Information Announcement - Non-secure LDAP Issue"
-slug: "non-secure-ldap"
-hidden: false
-createdAt: "2021-11-29T17:39:58.095Z"
-updatedAt: "2022-04-29T14:31:44.670Z"
+layout: default
+title: Non-secure LDAP Issue
+parent: Announcements
+nav_order: 2
 ---
+
 ## What
 During our regular security audit for CES, we noticed that we have Cisco Secure Email Cloud Gateway customers that are using port 3268 or 389 for LDAP sessions. By default, there is no security provision for these ports, making you vulnerable to man-in-the-middle attacks.
 
