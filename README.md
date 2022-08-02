@@ -1,9 +1,5 @@
 ## Welcome to Cisco Secure Email Documentation
 
-[Cisco Secure Email](https://cisco.com/go/emailsecurity)  
-[14.2](https://github.com/Cisco-Email-Security/docs/blob/main/asyncos-142-general-deployment-gd.md)  
-[Announcement](asyncos-142-general-deployment-gd.md)  
+This is a temporary home for documentation migration from previous site.
 
-## Docs 
-## Support 
-## Community 
+Documents here are for testing purposes at this time.
