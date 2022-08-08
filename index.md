@@ -1,17 +1,9 @@
----
-layout: default
-title: Home
-nav_order: 1
-description: "The Cisco Secure Email Documentation Hub is hosted on GitHub Pages."
-permalink: /
----
-
 <style>
 .button {
-  border-radius: 25px;
+  border-radius: 1px;
   padding: 10px;
-  width: 200;
-  height: 200px;
+  width: 240;
+  height: 240px;
   background-color: #00bceb;
   border: none;
   font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
@@ -29,9 +21,9 @@ permalink: /
 
 .button1 {
   padding: 10px;
-  width: 200;
-  height: 200px;
-  border-radius: 25px;
+  width: 240;
+  height: 240px;
+  border-radius: 1px;
   font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
   text-align: center;
   color: #0d274d;
@@ -41,9 +33,9 @@ permalink: /
 
 .button1:hover {
   padding: 10px;
-  width: 200;
-  height: 200px;
-  border-radius: 25px;
+  width: 240;
+  height: 240px;
+  border-radius: 1px;
   background-color: #00bceb;
   color: #0d274d;
 }
@@ -65,9 +57,9 @@ h2 {
   <body>
     <div class="column">
       <h2>docs.email.cisco.com</h2>
-      <button class="button button1"><img src="assets/icons/Symbols/icon_advisory.svg" width="100" height="100"><p>Announcements</p></button>
-      <button class="button button1"><img src="assets/icons/Symbols/icon_digital_web_design.svg" width="100" height="100"><p>Guides</p></button>
-      <button class="button button1"><img src="assets/icons/Symbols/icon_implementation.svg" width="100" height="100"><p>AsyncOS Release Information</p></button>
+      <button class="button button1"><img src="/assets/icons/Symbols/icon_advisory.svg" width="100" height="100"><p>Announcements</p></button>
+      <button class="button button1"><img src="/assets/icons/Symbols/icon_digital_web_design.svg" width="100" height="100"><p>Guides</p></button>
+      <button class="button button1"><img src="/assets/icons/Symbols/icon_implementation.svg" width="100" height="100"><p>AsyncOS Release Information</p></button>
     </div>  
   </body>
 </html>
