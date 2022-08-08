@@ -57,9 +57,9 @@ h2 {
   <body>
     <div class="column">
       <h2>docs.email.cisco.com</h2>
-      <button class="button button1"><img src="/assets/icons/Symbols/icon_advisory.svg" width="100" height="100"><p>Announcements</p></button>
-      <button class="button button1"><img src="/assets/icons/Symbols/icon_digital_web_design.svg" width="100" height="100"><p>Guides</p></button>
-      <button class="button button1"><img src="/assets/icons/Symbols/icon_implementation.svg" width="100" height="100"><p>AsyncOS Release Information</p></button>
+      <button class="button button1"><img src="assets/icons/Symbols/icon_advisory.svg" width="100" height="100"><p>Announcements</p></button>
+      <button class="button button1"><img src="assets/icons/Symbols/icon_digital_web_design.svg" width="100" height="100"><p>Guides</p></button>
+      <button class="button button1"><img src="assets/icons/Symbols/icon_implementation.svg" width="100" height="100"><p>AsyncOS Release Information</p></button>
     </div>  
   </body>
 </html>
