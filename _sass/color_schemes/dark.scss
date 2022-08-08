@@ -33,6 +33,7 @@ $font-size-10-sm: 48px !default;
 //
 
 $white: #fff !default;
+$black: #000000 !default;
 
 $grey-dk-000: #959396 !default;
 $grey-dk-100: #5c5962 !default;
@@ -77,11 +78,11 @@ $table-background-color: $white !default;
 $code-background-color: $grey-lt-000 !default;
 $feedback-color: darken($sidebar-color, 3%) !default;
 
-$body-text-color: $grey-dk-100 !default;
+$body-text-color: $grey-dk-300 !default;
 $body-heading-color: $grey-dk-300 !default;
 $search-result-preview-color: $grey-dk-000 !default;
-$nav-child-link-color: $grey-dk-100 !default;
-$link-color: $purple-000 !default;
+$nav-child-link-color: $grey-dk-300 !default;
+$link-color: $black !default;
 $btn-primary-color: $purple-100 !default;
 $base-button-color: #f7f7f7 !default;
 
